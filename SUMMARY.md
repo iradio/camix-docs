@@ -1,7 +1,6 @@
 # Table of contents
 
-* [CAMIX PRIZM. MANUAL SETUP](README.md)
-* [Содержание](soderzhanie/README.md)
+* [Camix Prizm](README.md)
   * [Комплектация](soderzhanie/komplektaciya.md)
   * [Описание интерфейса](soderzhanie/opisanie-interfeisa.md)
   * [Монтаж трекинг системы](soderzhanie/montazh-treking-sistemy.md)
@@ -36,3 +35,4 @@
   * [Стриминг данных](soderzhanie/striming-dannykh.md)
   * [История версий](soderzhanie/istoriya-versii.md)
   * [Вопросы/ответы](soderzhanie/voprosy-otvety.md)
+* [CAMIX PRIZM. MANUAL SETUP](<README (1).md>)
