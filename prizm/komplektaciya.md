@@ -32,16 +32,31 @@
 * блок питания
 * Wi-Fi антенна (2)
 
-Энкодер Camix Gear
+## Энкодер Camix Gear
 
 <figure><img src="../.gitbook/assets/camix_gears.png" alt=""><figcaption><p>Энкодер Camix Gear</p></figcaption></figure>
 
-Энкодер Camix Servo
+### Технические характеристики:
+
+* точность - 131 072 значений на оборот
+* частота получения данных - 240 Гц
+* крепление на 15мм риг
+
+### Разъемы:
+
+* USB 3.1 type-C
+
+### Комплектация:
+
+* энкодер (95 х 35 х 10 мм)
+* шестерни 0.4, 0.5, 0.6, 0.8 модулей (50 х 50 х 5 мм)
+
+## Энкодер Camix Servo
 
 <figure><img src="../.gitbook/assets/servo1.png" alt=""><figcaption><p>Энкодер Camix Servo</p></figcaption></figure>
 
-Transmitter FreeD
+## Transmitter FreeD
 
-Beacon LED
+## Beacon LED
 
-Аксессуары Camix Rigs
+## Аксессуары Camix Rigs
