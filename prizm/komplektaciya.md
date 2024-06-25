@@ -6,7 +6,7 @@
 
 ### Технические характеристики:
 
-* Intel Core i3-8145U
+* Intel Core i3/i5/i7
 * Intel UHD Graphics 620
 * Kingston SSD 120Gb
 * Patriot DDR4 4Gb
@@ -14,7 +14,8 @@
 * Wi-Fi
 * Bluetooth
 * OC Windows 10 64 Bit
-*
+
+
 
 ### Разъемы:
 
@@ -24,7 +25,8 @@
 * USB 2.0
 * HDMI (2)
 * Gigabit Ethernet
-*
+
+
 
 ### Габариты
 
@@ -56,6 +58,8 @@
 <figure><img src="../.gitbook/assets/servo1.png" alt=""><figcaption><p>Энкодер Camix Servo</p></figcaption></figure>
 
 ## Transmitter FreeD
+
+<figure><img src="../.gitbook/assets/OrangePiZero_2024_Jun_24_08_03_41PM_000_CustomizedView8868034073.png" alt=""><figcaption><p>Camix FreeD Transmitter</p></figcaption></figure>
 
 ## Beacon LED
 
