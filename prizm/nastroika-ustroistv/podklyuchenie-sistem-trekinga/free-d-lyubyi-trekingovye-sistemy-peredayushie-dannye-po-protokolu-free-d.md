@@ -1,6 +1,15 @@
-# Free-D (любый трекинговые системы передающие данные по протоколу free-D)
+---
+description: >-
+  Если ваша система трекинга камеры поддерживает передачу данных по протоколу
+  FreeD, ее можно подключить к Camix Prizm для выполнения преобразования системы
+  координат, сглаживания и фильтрации данных.
+---
+
+# Любая система трекинга, передающая данные по протоколу FreeD
 
 В разделе **Devices/Manage devices** необходимо выбрать  из выпадающего списка **Camera tracking device/Device** значение **FreeD Client**.
+
+
 
 <figure><img src="../../../.gitbook/assets/2024-08-30 13-21-25 Camix Prizm SE (Demo mode) 2.24.0514.png" alt=""><figcaption><p>FreeD Tracking system</p></figcaption></figure>
 

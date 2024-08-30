@@ -12,7 +12,7 @@
       * [Mo-Sys StarTracker](prizm/nastroika-ustroistv/podklyuchenie-sistem-trekinga/mo-sys-startracker.md)
       * [Stype](prizm/nastroika-ustroistv/podklyuchenie-sistem-trekinga/stype.md)
       * [Optitrack](prizm/nastroika-ustroistv/podklyuchenie-sistem-trekinga/optitrack.md)
-      * [Free-D (любый трекинговые системы передающие данные по протоколу free-D)](prizm/nastroika-ustroistv/podklyuchenie-sistem-trekinga/free-d-lyubyi-trekingovye-sistemy-peredayushie-dannye-po-protokolu-free-d.md)
+      * [Любая система трекинга, передающая данные по протоколу FreeD](prizm/nastroika-ustroistv/podklyuchenie-sistem-trekinga/free-d-lyubyi-trekingovye-sistemy-peredayushie-dannye-po-protokolu-free-d.md)
     * [Подключение энкодеров Zoom/Focus:](prizm/nastroika-ustroistv/podklyuchenie-enkoderov-zoom-focus/README.md)
       * [Camix Gear Encoder](prizm/nastroika-ustroistv/podklyuchenie-enkoderov-zoom-focus/camix-gear-encoder.md)
       * [Camix Servo](prizm/nastroika-ustroistv/podklyuchenie-enkoderov-zoom-focus/camix-servo.md)
